@@ -1,17 +1,17 @@
-import { Injectable } from "@angular/core";
-import { InMemoryDbService } from "angular-in-memory-web-api";
-import { AuthorTable } from "./authors";
-import { BookTable } from "./books";
+import { Injectable } from '@angular/core';
+import { InMemoryDbService } from 'angular-in-memory-web-api';
+import { BookTable } from './books';
 
 @Injectable()
 export class InMemoryBookService implements InMemoryDbService {
-  constructor() {}
 
-  createDB() {
+  constructor() { }
+
+  createDb() {
     const db = {
-      books: BookTable.books,
-      authors: AuthorTable.authors
-    };
+      events: BookTable.books
+    }
     return db;
   }
+
 }
