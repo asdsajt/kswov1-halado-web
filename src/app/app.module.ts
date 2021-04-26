@@ -6,6 +6,11 @@ import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
 import { BookListComponent } from './book-list/book-list.component';
 import { RequestService } from './request.service';
+import {BooksFeatureState} from "./store/book/books.reducer";
+
+export interface AppState {
+  bookFeature: BooksFeatureState;
+}
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
