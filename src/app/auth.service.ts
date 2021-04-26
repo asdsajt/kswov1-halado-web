@@ -3,14 +3,14 @@ import { Injectable } from '@angular/core';
 @Injectable()
 export class AuthService {
 
-    constructor() { }
+  constructor() { }
 
-    getToken(): string {
-        return 'kswov1-token-13579';
-    }
+  getToken(): string {
+    return 'secure-token-123';
+  }
 
-    isAuthenticated(): boolean {
-        return true;
-    }
+  isAuthenticated(): boolean {
+    return true;
+  }
 
 }

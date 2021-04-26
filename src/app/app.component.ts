@@ -1,4 +1,6 @@
-import { Component, VERSION } from '@angular/core';
+import { Component,ViewChild,ElementRef,OnInit } from '@angular/core';
+import { Observable, Observer, fromEvent,ReplaySubject } from 'rxjs';
+import { mergeMap, map,startWith,debounceTime } from 'rxjs/operators';
 
 @Component({
   selector: 'my-app',
@@ -6,5 +8,5 @@ import { Component, VERSION } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angular ' + VERSION.major;
+  name = 'Angular';
 }

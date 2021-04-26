@@ -4,22 +4,22 @@ import { HelloComponent } from './hello.component';
 import { AuthGuard } from './auth/auth.guard';
 
 const routes: Routes = [
-    {
-        path: 'books',
-        loadChildren: () => import('./books/books.module').then(m => m.BooksModule),
-        canLoad: [AuthGuard]
-    },
-    {
-        path: '',
-        redirectTo: '',
-        pathMatch: 'full'
-    }
+  {
+    path: 'events',
+    loadChildren: () => import('./events/events.module').then(m => m.EventsModule),
+    canLoad: [AuthGuard]
+  },
+  {
+    path: '',
+    redirectTo: '',
+    pathMatch: 'full'
+  }
 ];
 
 @NgModule({
-    imports: [
-        RouterModule.forRoot(routes)
-    ],
-    exports: [RouterModule]
+  imports: [
+    RouterModule.forRoot(routes)
+  ],
+  exports: [RouterModule]
 })
 export class AppRoutingModule { }

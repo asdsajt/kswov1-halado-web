@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48afc5c5-3401-40c7-8e05-38377d8aa50a" name="Default Changelist" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kswov1-halado-web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/auth/auth.guard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/auth.guard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-adding/author-adding.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-adding/author-adding.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-adding/author-adding.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-books/author-books.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-books/author-books.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-books/author-books.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-details/author-details.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-details/author-details.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-details/author-details.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-list/author-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-list/author-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/author-list/author-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/authors/authors.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/authors/authors.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/authors/authors.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/book-adding/book-adding.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/book-adding/book-adding.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/book-adding/book-adding.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/book-details/book-details.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/book-details/book-details.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/book-details/book-details.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/book-list/book-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/book-list/book-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/book-list/book-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/book.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/books/books-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/books/books.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/books/books.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/books/books.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/books/books.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/hello.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/hello.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/in-memory-db/authors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/in-memory-db/books.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/in-memory-db/in-memory-book.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/request.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/request.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store/book/books.actions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store/book/books.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store/book/books.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store/book/books.selector.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rHvPmz0KO9YmSt7AMOHKV6n6Oy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../programozas/angular/pemik-ngrx-store" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Dokumentumok\projekt_cae\kswov1-halado-web\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48afc5c5-3401-40c7-8e05-38377d8aa50a" name="Default Changelist" comment="" />
+      <created>1618645807746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618645807746</updated>
+      <workItem from="1618645814660" duration="3620000" />
+      <workItem from="1619427242777" duration="14499000" />
+    </task>
+    <task id="LOCAL-00001" summary="store - book">
+      <created>1619428461989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619428461989</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitignore">
+      <created>1619439580445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619439580445</updated>
+    </task>
+    <task id="LOCAL-00003" summary="blank component &amp; book list">
+      <created>1619439637542</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619439637542</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix">
+      <created>1619444041977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619444041977</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="store - book" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="blank component &amp; book list" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+</project>
